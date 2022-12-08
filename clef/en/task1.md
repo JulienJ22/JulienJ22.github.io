@@ -12,7 +12,7 @@ Nous vous invitons à soumettre à la fois des exécutions automatiques et manue
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Shared task 1](./task1)</button> | <button>[Shared task 2](./task2)</button> | <button>[Shared task 3](./task3)</button>| <button>[Unshared task 4](./task4)</button>
+<button>[Access](./tasks)</button> | <button>[Tâche partagée 1](./task1)</button> | <button>[Tâche partagée 2](./task2)</button> | <button>[Tâche partagée 3](./task3)</button>| <button>[Tâche partagée 4](./task4)</button>
 
 <br>
 
@@ -45,9 +45,9 @@ Pour chaque sujet, le nombre maximum de références DBLP distinctes (champ json
 
 | run_id | manual | topic_id | query_id | doc_id | passage |
 |:-------|:-------|:---------|:-------|:--------|:-----|
-| ST1_task1_1 | 0 | G01 | G01.1 | 1564531496 | A CDA is a mobile user device, similar to a Personal Digital Assistant (PDA). It supports the citizen when dealing with public authorities and proves his rights - if desired, even without revealing his identity. |
-| ST1_task1_1 | 0 | G01 | G01.1 | 3000234933 | People are becoming increasingly comfortable using Digital Assistants (DAs) to interact with services or connected objects |
-| ST1_task1_1 | 0 | G01 | G01.2 | 1448624402 | As extensive experimental research has shown individuals suffer from diverse biases in decision-making. |
+| ST1_task1_1 | 0 | G01 | G01.1 | 1564531496 | Un CDA est un appareil mobile pour l'utilisateur, semblable à un assistant numérique personnel (PDA). Il aide le citoyen dans ses relations avec les autorités publiques et prouve ses droits - si on le souhaite, même sans révéler son identité. |
+| ST1_task1_1 | 0 | G01 | G01.1 | 3000234933 | Les gens sont de plus en plus à l'aise avec les assistants numériques (AN) pour interagir avec les services ou les objets connectés. |
+| ST1_task1_1 | 0 | G01 | G01.2 | 1448624402 | Comme l'ont montré de nombreuses recherches expérimentales, les individus souffrent de divers biais dans la prise de décision. |
 
 *Vérificateur du format de sortie*.
 
