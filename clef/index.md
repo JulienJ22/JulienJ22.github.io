@@ -1,4 +1,4 @@
-# SimpleText@CLEF-2022 Home
+# SimpleText@CLEF-2022 Pâge d'accueil
 
 ---
 
