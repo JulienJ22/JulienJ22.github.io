@@ -36,7 +36,7 @@ Les sessions SimpleText se déroulent dans **ROOM F**, sauf pour les présentati
 * **17:20 - 17:40** José Monteiro, Micaela Aguiar, Sílvia Araújo "Using a Pre-trained SimpleT5 Model for Text Simplification in a Limited Corpus" ([Papier](http://ceur-ws.org/Vol-3180/paper-241.pdf), en ligne).
 * **17:40 - 18:00** Antonio Menta, Ana Garcia-Serrano "Controllable Sentence Simplification Using Transfer Learning" ([Papier](http://ceur-ws.org/Vol-3180/paper-240.pdf), en ligne).
 * **18:00 - 18:30** Femke Mostert, Ashmita Sampatsing, Mink Spronk, David Rau, Jaap Kamps "L'Université d'Amsterdam à la CLEF 2022 SimpleText Track" ([Papier](http://ceur-ws.org/Vol-3180/paper-242.pdf), [Diaporama](./clef22uva-plain.pdf)).
-* **18:30 - 18:50** Adrián Rubio, Paloma Martínez "HULAT-UC3M à SimpleText@CLEF-2022 : simplification de textes scientifiques à l'aide de BART" ([Paper](http://ceur-ws.org/Vol-3180/paper-243.pdf), en ligne).
+* **18:30 - 18:50** Adrián Rubio, Paloma Martínez "HULAT-UC3M à SimpleText@CLEF-2022 : simplification de textes scientifiques à l'aide de BART" ([Papier](http://ceur-ws.org/Vol-3180/paper-243.pdf), en ligne).
 
 ### Evénement social !
 
@@ -48,7 +48,7 @@ Les sessions SimpleText se déroulent dans **ROOM F**, sauf pour les présentati
 
 ### Session SimpleText 3 (SALLE F)
 
-* **8:50 - 9:10** Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu "NLP-IISERB@Simpletext2022 : To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts" ([Paper](http://ceur-ws.org/Vol-3180/paper-244.pdf), online).
+* **8:50 - 9:10** Sourav Saha, Dwaipayan Roy, B Yuvaraj Goud, Chethan S Reddy, Tanmay Basu "NLP-IISERB@Simpletext2022 : To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts" ([Papier](http://ceur-ws.org/Vol-3180/paper-244.pdf), en ligne).
 * **9:10 - 9:30** Shih-Hung Wu, Hong-Yi Huang "CYUT Team2 SimpleText Shared Task Report in CLEF-2022" ([Papier](http://ceur-ws.org/Vol-3180/paper-246.pdf), en ligne).
 * **9:30 - 10:20** Table ronde et discussion sur SimpleText 2023 :
     * [LNCS Track Aperçu] (https://doi.org/10.1007/978-3-031-13643-6_28) et documents CEUR de synthèse de [Tâche 1] (http://ceur-ws.org/Vol-3180/paper-235.pdf), [Tâche 2] (http://ceur-ws.org/Vol-3180/paper-236.pdf), et [Tâche 3] (http://ceur-ws.org/Vol-3180/paper-237.pdf). 
