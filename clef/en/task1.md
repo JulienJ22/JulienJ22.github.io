@@ -12,7 +12,7 @@ Nous vous invitons à soumettre à la fois des exécutions automatiques et manue
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Tâche partagée 1](./task1)</button> | <button>[Tâche partagée 2](./task2)</button> | <button>[Tâche partagée 3](./task3)</button>| <button>[Tâche partagée 4](./task4)</button>
+<button>[Accès](./tasks)</button> | <button>[Tâche partagée 1](./task1)</button> | <button>[Tâche partagée 2](./task2)</button> | <button>[Tâche partagée 3](./task3)</button>| <button>[Tâche partagée 4](./task4)</button>
 
 <br>
 
