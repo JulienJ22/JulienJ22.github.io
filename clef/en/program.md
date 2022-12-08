@@ -1,4 +1,4 @@
-# SimpleText@CLEF-2022 Program
+# SimpleText@CLEF-2022 Programme
 
 
 [Page d'accueil](./) | [Appel aux contributions](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks)  | [Outils](./tools) | 
