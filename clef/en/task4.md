@@ -6,22 +6,22 @@
 
 ---
 
-## SimpleText Pilot Task Guidelines
+## SimpleText Directives pour les tâches pilotes
 
-We invite you to submit both automatic and manual runs! Manual intervention should be reported.
+Nous vous invitons à soumettre aussi bien des interventions automatiques que manuelles ! Les interventions manuelles doivent être signalées.
 
 ---
 
-<button>[Access](./tasks)</button> | <button>[Shared task 1](./task1)</button> | <button>[Shared task 2](./task2)</button> | <button>[Shared task 3](./task3)</button> | <button>[Unshared task 4](./task4)</button>
+<button>[Accès](./tasks)</button> | <button>[Tâche partagée 1](./task1)</button> | <button>[Tâche partagée 2](./task2)</button> | <button>[Tâche partagée 3](./task3)</button> | <button>[Tâche partagée 4](./task4)</button>
 
 <br>
 
-## Unshared Task 4
+## Tâche non partagée 4
 
-We welcome any submission that uses our data! 
+Nous accueillons toute soumission qui utilise nos données ! 
 
-## How to Cite
-If you extend or use this work, please cite the [paper](https://doi.org/10.1007/978-3-031-13643-6_28) where it was introduced:
+## Comment citer
+Si vous étendez ou utilisez ce travail, veuillez citer le [article] (https://doi.org/10.1007/978-3-031-13643-6_28) où il a été présenté :
 ```
 Liana Ermakova, Eric SanJuan, Jaap Kamps, Stéphane Huet, Irina Ovchinnikova, Diana Nurbakova, 
 Sílvia Araújo, Radia Hannachi, Elise Mathurin, and Patrice Bellot. 2022. 
