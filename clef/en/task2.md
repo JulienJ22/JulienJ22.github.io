@@ -8,7 +8,7 @@
 
 ## SimpleText Task Guidelines
 
-We invite you to submit both automatic and manual runs! Manual intervention should be reported.
+Nous vous invitons à soumettre aussi bien des interventions automatiques que manuelles ! Les interventions manuelles doivent être signalées.
 
 ---
 
