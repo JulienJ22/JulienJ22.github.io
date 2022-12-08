@@ -1,4 +1,4 @@
-# SimpleText@CLEF-2022 Tools
+# SimpleText@CLEF-2022 Outils
 
 [Page d'accueil](./) | [Appel aux contributions](./CFP) | [Dates importantes](./dates) | [Tâches](./tasks)  | [Outils](./tools) | 
 [Programme](./program) | [Publications](./publications) | [Organisateurs](./organisers) | [Contact](./contact) | [CLEF-2023](https://simpletext-project.com/2023/clef)
