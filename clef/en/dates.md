@@ -10,7 +10,7 @@
 **22 avril 2022:** Fin des inscriptions aux laboratoires
 * **6 mai 2022:** Fin du cycle d'évaluation
 * **27 mai 2022:** Date limite de soumission des communications des participants [CEUR-WS]
-**13 juin 2022:** Notification d'acceptation des communications des participants [CEUR-WS].
+* **13 juin 2022:** Notification d'acceptation des communications des participants [CEUR-WS].
 **1 juillet 2022:** Date limite pour la soumission des communications des participants prêtes à être filmées [CEUR-WS].
 **18-22 juillet 2022:** Prévisualisation des notes de travail par les auteurs [CEUR-WS].
 **5 - 8 septembre 2022:** Conférence CLEF 2022
