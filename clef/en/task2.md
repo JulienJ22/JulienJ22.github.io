@@ -131,6 +131,6 @@ In Experimental IR Meets Multilinguality, Multimodality, and Interaction: 13th I
 Conference of the CLEF Association, CLEF 2022, Bologna, Italy, September 5–8, 2022, Proceedings. 
 Springer-Verlag, Berlin, Heidelberg, 470–494. https://doi.org/10.1007/978-3-031-13643-6_28
 ```
-[Paper](https://doi.org/10.1007/978-3-031-13643-6_28)
+[Papier](https://doi.org/10.1007/978-3-031-13643-6_28)
 
 [Dowload .BIB](../../BibTeX/ermakova_overview_2022.bib)
