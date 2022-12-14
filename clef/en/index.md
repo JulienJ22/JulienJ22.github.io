@@ -13,24 +13,23 @@
 ## SimpleText : Simplification automatique de textes scientifiques
 
 
-Lab topic and goals
+Sujets et objectifs du labo
 
-SimpleText tackles technical challenges and evaluation challenges by providing appropriate data and benchmarks for text simplification. 
-<br/>We propose the following tasks: 
-* [TASK 1 What is in (or out)?](./task1)
-Select passages to include in a simplified summary, given a query
-* [TASK 2 What is unclear?](./task2)
-Given a passage and a query, rank terms/concepts that are required to be explained for understanding this passage (definitions, context, applications,..) 
-* [TASK 3 Rewrite this!](./task3)
-Given a query, simplify passages from scientific abstracts 
+SimpleText s'attaque aux défis techniques et aux difficultés d'évaluation en fournissant des données et des repères appropriés pour la simplification des textes.
+<br/>Nous proposons les tâches suivantes : 
+* [TÂCHE 1 qu'est-ce qui est dedans (ou dehors) ?](./tâche1)
+Sélectionnez les passages à inclure dans un résumé simplifié, à partir d'une question.
+* [TÂCHE 2 : Qu'est-ce qui n'est pas clair ?
+A partir d'un passage et d'une question, classez les termes/concepts qui doivent être expliqués pour comprendre ce passage (définitions, contexte, applications,..). 
+* [TÂCHE 3 Réécrire ce texte](./tâche3)
+A partir d'une requête, simplifier des passages de résumés scientifiques. 
 * [UNSHARED TASK](./task4)
-We welcome any submission that uses our data!
+Nous accueillons toute soumission qui utilise nos données !
 
-
-To face these challenges, SimpleText aims to answer the following research questions: 
-<br/>RQ1 — What textual expression carrying information should be simplified (document and passage to be included in the simplified summary)?
-<br/>RQ2 — What kind of background information should be provided (what terms should be contextualised giving a definition and/or application)? What information is the most relevant or helpful? 
-<br/>RQ3 — How to improve the readability of a given short text (e.g. by reducing vocabulary and syntactic complexity) with acceptable rate of information distortion? 
+Pour faire face à ces défis, SimpleText vise à répondre aux questions de recherche suivantes : 
+<br/>RQ1 — Quelle expression textuelle porteuse d'information doit être simplifiée (document et passage à inclure dans le résumé simplifié) ?
+<br/>RQ2 — Quel type d'information de base doit être fourni (quels termes doivent être contextualisés en donnant une définition et/ou une application) ? Quelles sont les informations les plus pertinentes ou les plus utiles ? 
+<br/>RQ3 —Comment améliorer la lisibilité d'un texte court donné (par exemple en réduisant le vocabulaire et la complexité syntaxique) avec un taux acceptable de distorsion de l'information ? 
 
 ### Signification pour le domaine et pertinence pour CLEF
 
